@@ -3,7 +3,7 @@
 It is a theme of rEFInd Boot Manager that can set your profile, device and your name.
 
 ## Set Resolution and Choose Mouse or Touch
-Download the last from release.
+Download the last from releases.
 
 Unpack the zip.
 
@@ -42,7 +42,7 @@ over.
 这是一个可以自定义用户头像、设备名称和机主姓名的rEFInd主题。
 
 ## 设置分辨率，选择鼠标或者触屏
-进入 Release 下载。
+进入 Releases 下载。
 
 解包。
 

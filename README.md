@@ -58,7 +58,7 @@ over.
 
 (旧设备打开 \EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx)
 ![image](https://user-images.githubusercontent.com/69227436/162580042-d32719bf-5091-41cd-976e-527087642f37.png)
-to set your profile, device and your name.
+用以设置用户头像、设备名称和机主姓名。
 
 导出为PNG并且覆盖 BannerEditor.png
 ![image](https://user-images.githubusercontent.com/69227436/162580182-73dcc418-c6e0-4802-af90-daab30ede40d.png)

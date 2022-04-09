@@ -30,3 +30,7 @@ For old devices, copy the folder named boot into ESP: /EFI/
 
 # Add a New Boot Entry
 By UEFI BIOS setup
+
+# reboot to see what if
+Here is mine.
+![screenshot_001](https://user-images.githubusercontent.com/69227436/162580866-cff24d07-04b4-4553-8411-f34884d94f2b.png)

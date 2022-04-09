@@ -1,4 +1,4 @@
-中文见底部，按4下键盘的 PageDown 。
+中文见底部，按5下键盘的 PageDown 。
 # rEFInd-theme-named-Yours
 It is a theme of rEFInd Boot Manager that can set your profile, device and your name.
 

@@ -35,6 +35,8 @@ By UEFI BIOS setup
 ## Reboot to see what if
 Here is mine.
 ![screenshot_001](https://user-images.githubusercontent.com/69227436/162580866-cff24d07-04b4-4553-8411-f34884d94f2b.png)
+over.
+
 
 # 你的 rEFInd 主题
 这是一个可以自定义用户头像、设备名称和机主姓名的rEFInd主题。

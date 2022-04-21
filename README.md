@@ -35,3 +35,8 @@ By UEFI BIOS setup
 ## Reboot to see what if
 Here is mine.
 ![image](https://user-images.githubusercontent.com/69227436/164385947-89eb95c0-ad5e-4cc8-8a58-173de3ff392d.png)
+
+## Credits
+Many icons have been adapted from [refind-theme-regular](https://github.com/munlik/refind-theme-regular) of [munlik](https://github.com/munlik)
+Some icons have been adapted from [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/)
+Some icons have been adapted from [brunch](https://github.com/sebanc/brunch/)

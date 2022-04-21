@@ -1,4 +1,4 @@
-[英文](https://github.com/1457384613gh/rEFInd-theme-named-Yours)|[中文](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/%E8%87%AA%E8%BF%B0%E6%96%87%E4%BB%B6.md)
+[English](https://github.com/1457384613gh/rEFInd-theme-named-Yours) | [中文](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/%E8%87%AA%E8%BF%B0%E6%96%87%E4%BB%B6.md)
 # rEFInd-theme-named-Yours
 It is a theme of rEFInd Boot Manager that can set your profile, device and your name.
 

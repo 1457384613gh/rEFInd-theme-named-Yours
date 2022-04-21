@@ -3,7 +3,7 @@
 It is a theme of rEFInd Boot Manager that can set ___your profile___, ___device___ and ___your name___.
 
 ## Set Resolution and Choose Mouse or Touch
-Download the last from Releases.
+Download the last from [Releases](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases).
 
 Unpack the zip.
 

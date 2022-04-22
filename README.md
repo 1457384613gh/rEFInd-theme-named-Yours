@@ -45,7 +45,7 @@ By UEFI BIOS setup
 
 ## Reboot to see what if
 Here is mine.
-![image](https://user-images.githubusercontent.com/69227436/164479464-442996f7-ffc3-47f2-94c5-a258369c3a5e.png)
+![image](https://user-images.githubusercontent.com/69227436/164609533-dbaa87f5-4384-4cbb-b8f3-8c457af7169b.png)
 
 ## Credits
 Many icons have been adapted from [refind-theme-regular](https://github.com/munlik/refind-theme-regular) of [munlik](https://github.com/munlik)

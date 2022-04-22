@@ -18,7 +18,7 @@ to select your resolution and decide mouse or touch
 ![image](https://user-images.githubusercontent.com/69227436/164616080-c1fbb4b0-58de-4eab-807e-905f8affc065.png)
 
 ## Edit Banner to Set Your Profile, Device and Your Name
-You can edit banner by using [Microsoft Office 2021+](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/README.md#for-microsoft-office-2021) or [Adobe Photoshop](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/README.md#for-adobe-photoshop)
+You can edit banner by using [Microsoft Office 2021+](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-microsoft-office-2021) or [Adobe Photoshop](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-adobe-photoshop)
 ### For Microsoft Office 2021+
 Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
 

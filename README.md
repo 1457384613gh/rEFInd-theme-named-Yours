@@ -26,7 +26,7 @@ to set your profile, device and your name.
 
 ![image](https://user-images.githubusercontent.com/69227436/164615647-597163f7-4021-4ae5-922f-7fef1ce521bb.png)
 Export as png to overwrite BannerEditor.png
-![image](https://user-images.githubusercontent.com/69227436/162580182-73dcc418-c6e0-4802-af90-daab30ede40d.png)
+![image](https://user-images.githubusercontent.com/69227436/164616497-d3ca3e4a-f231-4fc2-99ac-587a32c09453.png)
 ### For Adobe Photoshop
 Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop
 

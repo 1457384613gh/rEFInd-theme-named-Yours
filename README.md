@@ -42,3 +42,5 @@ Many icons have been adapted from [refind-theme-regular](https://github.com/munl
 Some icons have been adapted from [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/)
 
 Some icons have been adapted from [brunch](https://github.com/sebanc/brunch/)
+
+A few has been adapted from unknown.

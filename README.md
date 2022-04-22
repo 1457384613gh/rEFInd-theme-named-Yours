@@ -3,7 +3,7 @@
 |[Preview](https://github.com/1457384613gh/rEFInd-theme-named-Yours#reboot-to-see-what-if)|[预览效果](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/%E8%87%AA%E8%BF%B0%E6%96%87%E4%BB%B6.md#%E9%87%8D%E5%90%AF%E7%9C%8B%E7%9C%8B)|[預覽效果](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87.md#%E9%87%8D%E5%95%9F%E7%9C%8B%E7%9C%8B)
 
 # rEFInd-theme-named-Yours
-It is a theme of rEFInd Boot Manager that can set ___your profile___, ___device___ and ___your name___.
+It is a theme of rEFInd Boot Manager, which can set ___your profile___, ___device___ and ___your name___.
 
 #If you have OpenCore, you shall set `LauncherOption=System`.
 

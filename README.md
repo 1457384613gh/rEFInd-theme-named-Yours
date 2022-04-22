@@ -15,6 +15,8 @@ to select your resolution and decide mouse or touch
 ![image](https://user-images.githubusercontent.com/69227436/162579811-bf3277c0-0ce0-4c35-b22a-a49370ae34fc.png)
 
 ## Edit Banner to Set Your Profile, Device and Your Name
+You can edit banner by using Microsoft Office 2021+ or Adobe Photoshop
+### For Microsoft Office 2021+
 Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
 
 (`Open \EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices)
@@ -23,6 +25,15 @@ to set your profile, device and your name.
 
 Export as png to overwrite BannerEditor.png
 ![image](https://user-images.githubusercontent.com/69227436/162580182-73dcc418-c6e0-4802-af90-daab30ede40d.png)
+### For Adobe Photoshop
+Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop
+
+(`Open \EFI\boot\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop for old devices)
+to set your profile, device and your name.
+![image](https://user-images.githubusercontent.com/69227436/164593303-265a8238-fae9-4e16-b40b-465c59f8a847.png)
+
+
+Export as png to overwrite BannerEditor.png
 
 ## Read and Write ESP
 For new devices, copy the folder named refind into `ESP: /EFI/`

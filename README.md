@@ -19,7 +19,7 @@ You can edit banner by using [Microsoft Office 2021+](https://github.com/1457384
 ### For Microsoft Office 2021+
 Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
 
-(`Open \EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices)
+(Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices)
 
 ![image](https://user-images.githubusercontent.com/69227436/164608436-e3b76607-7b73-4016-be0b-ec3c23ae9012.png)
 to set your profile, device and your name.
@@ -30,7 +30,7 @@ Export as png to overwrite BannerEditor.png
 ### For Adobe Photoshop
 Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop
 
-(`Open \EFI\boot\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop for old devices)
+(Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop for old devices)
 
 to set your profile, device and your name.
 ![image](https://user-images.githubusercontent.com/69227436/164608548-03b00cf6-4c88-489e-878a-aec8f328f1ce.png)

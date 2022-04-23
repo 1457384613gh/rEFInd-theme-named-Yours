@@ -17,7 +17,7 @@ Edit `\EFI\refind\themes\Yours\theme.conf`
 (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices)
 
 to select your resolution and decide mouse or touch
-![image](https://user-images.githubusercontent.com/69227436/164616080-c1fbb4b0-58de-4eab-807e-905f8affc065.png)
+![image](https://user-images.githubusercontent.com/69227436/164884137-91064754-2100-4f7b-8fa7-57a37b833164.png)
 
 ## Edit Banner to Set Your Profile, Device and Your Name
 You can edit banner by using [Microsoft Office 2021+](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-microsoft-office-2021) or [Adobe Photoshop](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-adobe-photoshop)

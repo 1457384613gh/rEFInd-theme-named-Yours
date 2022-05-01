@@ -21,8 +21,6 @@ to select your resolution and decide mouse or touch
 
 ## Edit Banner to Set Your Profile, Device and Your Name
 You can edit banner by using [Microsoft Office 2021+](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-microsoft-office-2021) or [Adobe Photoshop](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-adobe-photoshop)
-If you have no these fonts, you can download and install. [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts)
-Or select other fonts you like.
 ### For Microsoft Office 2021+
 Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
 
@@ -43,6 +41,13 @@ to set your profile, device and your name.
 ![image](https://user-images.githubusercontent.com/69227436/164608548-03b00cf6-4c88-489e-878a-aec8f328f1ce.png)
 
 Export as png to overwrite BannerEditor.png
+### For those who have no these fonts
+- `Agency FB`  is the font of `The Device`
+- `French Script MT` is the font of `your name`
+
+If you have no these fonts, you can download and install. [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts)
+
+Or you can select other fonts you like.
 
 ## Read and Write ESP
 For new devices, copy the folder named refind into `ESP: /EFI/`

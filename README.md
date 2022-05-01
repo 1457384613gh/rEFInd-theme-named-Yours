@@ -47,7 +47,7 @@ Export as png to overwrite BannerEditor.png
 - `Agency FB`  is the font of `The Device`
 - `French Script MT` is the font of `your name`
 
-If you have no these fonts, you can download and install. [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts)
+If you have no these fonts, you can download and install [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts).
 
 Or you can select other fonts you like.
 

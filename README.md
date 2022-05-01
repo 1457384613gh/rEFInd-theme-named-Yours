@@ -8,7 +8,7 @@ It is a theme of rEFInd Boot Manager, which can set ___your profile___, ___devic
 #If you have OpenCore, you shall set `LauncherOption=System`.
 
 ## Set Resolution and Choose Mouse or Touch
-Download the last from [Releases](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases).
+Download the last zip from [Releases](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases).
 
 Unpack the zip.
 

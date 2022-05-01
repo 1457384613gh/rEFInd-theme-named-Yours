@@ -64,3 +64,6 @@ Some icons have been adapted from [The rEFInd Boot Manager](http://www.rodsbooks
 Some icons have been adapted from [brunch](https://github.com/sebanc/brunch/)
 
 A few has been adapted from unknown.
+
+## Star
+If you like it and are looking forward to the coming update, you can star it.⭐

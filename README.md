@@ -21,6 +21,8 @@ to select your resolution and decide mouse or touch
 
 ## Edit Banner to Set Your Profile, Device and Your Name
 You can edit banner by using [Microsoft Office 2021+](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-microsoft-office-2021) or [Adobe Photoshop](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-adobe-photoshop)
+If you have no these fonts, you can download and install. [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts)
+Or select other fonts you like.
 ### For Microsoft Office 2021+
 Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
 

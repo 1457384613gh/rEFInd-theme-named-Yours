@@ -41,6 +41,8 @@ to set your profile, device and your name.
 ![image](https://user-images.githubusercontent.com/69227436/164608548-03b00cf6-4c88-489e-878a-aec8f328f1ce.png)
 
 Export as png to overwrite BannerEditor.png
+
+(Also, you can use [online PS](https://ps.gaoding.com/#/))
 ### For those who have no these fonts
 - `Agency FB`  is the font of `The Device`
 - `French Script MT` is the font of `your name`

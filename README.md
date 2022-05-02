@@ -93,7 +93,7 @@ Here is mine.
 ![5_screenshot_002](https://user-images.githubusercontent.com/69227436/166140211-fc94ed16-946b-4974-9cb5-0945c276cfcf.png)
 
 ## Star
- #7. If you like it and are looking forward to the coming update, you can star it.⭐
+7. If you like it and are looking forward to the coming update, you can star it.⭐
  
 ## Credits
 Many icons have been adapted from [refind-theme-regular](https://github.com/munlik/refind-theme-regular) of [munlik](https://github.com/munlik)

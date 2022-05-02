@@ -77,7 +77,7 @@ It is a theme of rEFInd Boot Manager, which can
 
  #4.5. If you have no these fonts, you can download and install [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts).
 
- #4.5. you can select other fonts you like.
+ #4.5. You can select other fonts you like.
 
 ## Read and Write ESP
 5. For new devices, copy the folder named refind into `ESP: /EFI/`

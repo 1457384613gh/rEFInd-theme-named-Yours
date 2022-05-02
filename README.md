@@ -14,7 +14,7 @@ It is a theme of rEFInd Boot Manager, which can
 - #If you have prime os, `/EFI/android` should be renamed `/EFI/prime` .
 - #If you have Phoenix OS Darkmatter, `/EFI/android` should be renamed `/EFI/darkmatter` .
 - #If you have ventoy, `VTOY: /EFI/BOOT` should be renamed `VTOY: /EFI/VENTOY` .
-- #如果你的U盘里有微PE工具箱，`U盘：/EFI/BOOT` 应该被重命名为 `U盘：/EFI/darkmatter`
+- #如果你的U盘里有微PE工具箱，`U盘：/EFI/BOOT` 应该被重命名为 `U盘：/EFI/WEPE` 。
 
 ## Download the last with `.vhdx` or `.zip`
 1. Download the last from [Releases](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases).

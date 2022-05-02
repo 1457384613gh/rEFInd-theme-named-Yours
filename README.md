@@ -28,7 +28,10 @@ It is a theme of rEFInd Boot Manager, which can
 - The resolution is 1920×1080.
 
 ## Set Resolution and Choose Mouse or Touch
+ #1.5 Mount `.vhdx`
 
+ #1.5 Unpack `.zip`
+ 
 2. Edit `\EFI\refind\themes\Yours\theme.conf`
 
  #2. (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices)

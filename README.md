@@ -22,7 +22,7 @@ It is a theme of rEFInd Boot Manager, which can
 - `.vhdx` can be used by hyper-V; You can preview by hyper-V.
 - You can mount `.vhdx` by Windows 10+ for editing and copying.
 - The resolution is 1024×768.
-![image](https://user-images.githubusercontent.com/69227436/166177525-999990c1-90ff-4c08-ad6d-2bb147d065bd.png)
+![image](https://user-images.githubusercontent.com/69227436/166185140-c74909ee-31b5-4dd4-9716-13b1073a9504.png)
 ### As for `.zip`
 - `.zip` is so easy to use.
 - The resolution is 1920×1080.

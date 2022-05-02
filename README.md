@@ -69,8 +69,6 @@ It is a theme of rEFInd Boot Manager, which can
 ![image](https://user-images.githubusercontent.com/69227436/164608548-03b00cf6-4c88-489e-878a-aec8f328f1ce.png)
 
 4. Export as png to overwrite BannerEditor.png
-
-
 ### For those who have no these fonts
 - `Agency FB`  is the font of `The Device`
 - `French Script MT` is the font of `your name`

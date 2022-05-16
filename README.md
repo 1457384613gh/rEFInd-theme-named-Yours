@@ -90,7 +90,7 @@ It is a theme of rEFInd Boot Manager, which can
 - `Agency FB`  is the font of `The Device`
 - `French Script MT` is the font of `your name`
 
- #4.5. If you have no these fonts, you can download and install [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts).
+ #4.5. If you have no these fonts, you can download and install [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts-0.2).
 
  #4.5. You can select other fonts you like.
    </details>

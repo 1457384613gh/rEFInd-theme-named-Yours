@@ -109,6 +109,7 @@ And then it can load Chrome OS by using Brunch.
   </details>
   <details>
     <summary>For those who have no these fonts</summary>
+    
     - `Agency FB`  is the font of `The Device`
     - `French Script MT` is the font of `your name`
     

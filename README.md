@@ -7,6 +7,7 @@ It is a theme of rEFInd Boot Manager, which can
 - set ___device___
 - set ___your name___.
 
+## Instructions
 <details>
   <summary>Click to open How to Set</summary>
  

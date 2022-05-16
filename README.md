@@ -117,6 +117,7 @@ And then it can load Chrome OS by using Brunch.
     
     - `Agency FB`  is the font of `The Device`
     - `French Script MT` is the font of `your name`
+    - `Calibri` is the font of `the blue "of"`
     
     #4.5. If you have no these fonts, you can download and install [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts-0.2).
     

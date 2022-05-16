@@ -7,7 +7,7 @@ It is a theme of rEFInd Boot Manager, which can
 - set ___device___
 - set ___your name___.
 
-## Guide🧭
+## 🧭Guide
 <details>
   <summary>Click to open How to Set</summary>
   
@@ -127,15 +127,15 @@ And then it can load Chrome OS by using Brunch.
   6. By UEFI BIOS setup
 </details>
 
-## Preview🖥️
+## 🖥️Preview
 Here is mine.
 ![5_screenshot_001](https://user-images.githubusercontent.com/69227436/166140209-6f2c14b6-1e0c-4f29-8cae-74b85285fb1d.png)
 ![5_screenshot_002](https://user-images.githubusercontent.com/69227436/166140211-fc94ed16-946b-4974-9cb5-0945c276cfcf.png)
 
-## Star⭐
+## ⭐Star
 If you like it and are looking forward to the coming update, you can star it.⭐
  
-## Credits🎉
+## 🎉Credits
 Many icons have been adapted from [refind-theme-regular](https://github.com/munlik/refind-theme-regular) of [munlik](https://github.com/munlik)
 
 Some icons have been adapted from [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/)

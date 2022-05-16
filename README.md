@@ -8,7 +8,7 @@ It is a theme of rEFInd Boot Manager, which can
 - set ___your name___.
 
 <details>
-  <summary>How to Set</summary>
+  <summary>Click to open How to Set</summary>
  
 ## Note!
 - #If you have **ChromeOS on BrunchFramework**, you shall read **[This](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/README/Brunch.md)**.

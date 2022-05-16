@@ -44,7 +44,8 @@ It is a theme of rEFInd Boot Manager, which can
 ## Edit Banner to Set Your Profile, Device and Your Name
 - You can edit banner by using [Microsoft Office 2021+](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-microsoft-office-2021)
 - You can edit banner by using [Adobe Photoshop](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-adobe-photoshop)
-### For Microsoft Office 2021+
+<details>
+  <summary>For Microsoft Office 2021+</summary>
 3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
 
  #3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices)
@@ -57,7 +58,9 @@ It is a theme of rEFInd Boot Manager, which can
 ![image](https://user-images.githubusercontent.com/69227436/164615647-597163f7-4021-4ae5-922f-7fef1ce521bb.png)
 4. Export as png to overwrite BannerEditor.png
 ![image](https://user-images.githubusercontent.com/69227436/164616497-d3ca3e4a-f231-4fc2-99ac-587a32c09453.png)
-### For Adobe Photoshop
+   </details>
+<details>
+  <summary>For Adobe Photoshop</summary>
 - #(Also, you can use [online PS](https://ps.gaoding.com/#/))
 3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop
 
@@ -70,13 +73,16 @@ It is a theme of rEFInd Boot Manager, which can
 ![image](https://user-images.githubusercontent.com/69227436/164608548-03b00cf6-4c88-489e-878a-aec8f328f1ce.png)
 
 4. Export as png to overwrite BannerEditor.png
-### For those who have no these fonts
+  </details>
+<details>
+  <summary>For those who have no these fonts</summary>
 - `Agency FB`  is the font of `The Device`
 - `French Script MT` is the font of `your name`
 
  #4.5. If you have no these fonts, you can download and install [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts).
 
  #4.5. You can select other fonts you like.
+   </details>
 
 ## Read and Write ESP
 5. For new devices, copy the folder named refind into `ESP: /EFI/`

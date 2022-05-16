@@ -11,12 +11,12 @@ It is a theme of rEFInd Boot Manager, which can
 <details>
   <summary>Click to open How to Set</summary>
   
-  ## Note!
+  ### Note!
   - #If you have **ChromeOS on BrunchFramework**, you shall read this.
   <details>
     <summary>THIS</summary>
     
-### How to load Chrome OS by using Brunch.
+#### How to load Chrome OS by using Brunch.
 - Find `#name#.img.grub.txt`
 - Open it and copy.
 
@@ -44,7 +44,7 @@ And then it can load Chrome OS by using Brunch.
   - #If you have **Ventoy**, `VTOY: /EFI/BOOT` should be renamed `VTOY: /EFI/VENTOY` .
   - #如果你的U盘里有微PE工具箱，`U盘：/EFI/BOOT` 应该被重命名为 `U盘：/EFI/WEPE` 。
   
-  ## Download the last with `.vhdx` or `.zip`
+  ### Download the last with `.vhdx` or `.zip`
   1. Download the last from [Releases](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases).
   <details>
     <summary>As for `.vhdx`</summary>
@@ -61,7 +61,7 @@ And then it can load Chrome OS by using Brunch.
     - The resolution is 1920×1080.
   </details>
   
-  ## Set Resolution and Choose Mouse or Touch
+  ### Set Resolution and Choose Mouse or Touch
   #1.5 Mount `.vhdx`
   #1.5 Unpack `.zip`
   2. Edit `\EFI\refind\themes\Yours\theme.conf`
@@ -72,7 +72,7 @@ And then it can load Chrome OS by using Brunch.
   
   ![image](https://user-images.githubusercontent.com/69227436/164884137-91064754-2100-4f7b-8fa7-57a37b833164.png)
   
-  ## Edit Banner to Set Your Profile, Device and Your Name
+  ### Edit Banner to Set Your Profile, Device and Your Name
   - You can edit banner by using Microsoft Office 2021+
   - You can edit banner by using Adobe Photoshop
   <details>
@@ -118,12 +118,12 @@ And then it can load Chrome OS by using Brunch.
     #4.5. You can select other fonts you like.
   </details>
   
-  ## Read and Write ESP
+  ### Read and Write ESP
   5. For new devices, copy the folder named refind into `ESP: /EFI/`
   
   #5. For old devices, copy the folder named boot into `ESP: /EFI/`
   
-  ## Add a New Boot Entry
+  ### Add a New Boot Entry
   6. By UEFI BIOS setup
 </details>
 

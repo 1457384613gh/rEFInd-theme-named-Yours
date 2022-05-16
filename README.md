@@ -16,7 +16,7 @@ It is a theme of rEFInd Boot Manager, which can
   <details>
     <summary>THIS</summary>
     
-#### How to load Chrome OS by using Brunch.
+# How to load Chrome OS by using Brunch.
 - Find `#name#.img.grub.txt`
 - Open it and copy.
 

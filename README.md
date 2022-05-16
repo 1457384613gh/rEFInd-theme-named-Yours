@@ -1,6 +1,5 @@
 [English](https://github.com/1457384613gh/rEFInd-theme-named-Yours) | [简体中文](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/%E8%87%AA%E8%BF%B0%E6%96%87%E4%BB%B6.md) | [繁體中文](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87.md)
 |---|---|---|
-|[Preview](https://github.com/1457384613gh/rEFInd-theme-named-Yours#reboot-to-see-what-if)|[预览效果](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/%E8%87%AA%E8%BF%B0%E6%96%87%E4%BB%B6.md#%E9%87%8D%E5%90%AF%E7%9C%8B%E7%9C%8B)|[預覽效果](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87.md#%E9%87%8D%E5%95%9F%E7%9C%8B%E7%9C%8B)
 
 # rEFInd-theme-named-Yours
 It is a theme of rEFInd Boot Manager, which can
@@ -8,6 +7,9 @@ It is a theme of rEFInd Boot Manager, which can
 - set ___device___
 - set ___your name___.
 
+<details>
+  <summary>How to Set</summary>
+ 
 ## Note!
 - #If you have **ChromeOS on BrunchFramework**, you shall read **[This](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/README/Brunch.md)**.
 - #If you have **OpenCore**, you shall set `LauncherOption=System`.
@@ -19,15 +21,21 @@ It is a theme of rEFInd Boot Manager, which can
 
 ## Download the last with `.vhdx` or `.zip`
 1. Download the last from [Releases](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases).
-### As for `.vhdx`
+<details>
+  <summary>As for `.vhdx`</summary>
+ 
 - `.vhdx` can be used by hyper-V; You can preview by hyper-V.
 - You can mount `.vhdx` by Windows 10+ for editing and copying.
 - The resolution is 1024×768.
 ![image](https://user-images.githubusercontent.com/69227436/166185140-c74909ee-31b5-4dd4-9716-13b1073a9504.png)
-### As for `.zip`
+    </details>
+<details>
+  <summary>As for `.zip`</summary>
+ 
 - `.zip` is so easy to use.
 - The resolution is 1920×1080.
-
+   </details>
+ 
 ## Set Resolution and Choose Mouse or Touch
  #1.5 Mount `.vhdx`
 
@@ -42,10 +50,11 @@ It is a theme of rEFInd Boot Manager, which can
 ![image](https://user-images.githubusercontent.com/69227436/164884137-91064754-2100-4f7b-8fa7-57a37b833164.png)
 
 ## Edit Banner to Set Your Profile, Device and Your Name
-- You can edit banner by using [Microsoft Office 2021+](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-microsoft-office-2021)
-- You can edit banner by using [Adobe Photoshop](https://github.com/1457384613gh/rEFInd-theme-named-Yours#for-adobe-photoshop)
+- You can edit banner by using Microsoft Office 2021+
+- You can edit banner by using Adobe Photoshop
 <details>
   <summary>For Microsoft Office 2021+</summary>
+ 
 3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
 
  #3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices)
@@ -61,6 +70,7 @@ It is a theme of rEFInd Boot Manager, which can
    </details>
 <details>
   <summary>For Adobe Photoshop</summary>
+ 
 - #(Also, you can use [online PS](https://ps.gaoding.com/#/))
 3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop
 
@@ -73,9 +83,10 @@ It is a theme of rEFInd Boot Manager, which can
 ![image](https://user-images.githubusercontent.com/69227436/164608548-03b00cf6-4c88-489e-878a-aec8f328f1ce.png)
 
 4. Export as png to overwrite BannerEditor.png
-  </details>
+   </details>
 <details>
   <summary>For those who have no these fonts</summary>
+ 
 - `Agency FB`  is the font of `The Device`
 - `French Script MT` is the font of `your name`
 
@@ -91,14 +102,15 @@ It is a theme of rEFInd Boot Manager, which can
 
 ## Add a New Boot Entry
 6. By UEFI BIOS setup
-
-## Reboot to see what if
+ 
+    </details>
+## Preview
 Here is mine.
 ![5_screenshot_001](https://user-images.githubusercontent.com/69227436/166140209-6f2c14b6-1e0c-4f29-8cae-74b85285fb1d.png)
 ![5_screenshot_002](https://user-images.githubusercontent.com/69227436/166140211-fc94ed16-946b-4974-9cb5-0945c276cfcf.png)
 
 ## Star
- #7. If you like it and are looking forward to the coming update, you can star it.⭐
+If you like it and are looking forward to the coming update, you can star it.⭐
  
 ## Credits
 Many icons have been adapted from [refind-theme-regular](https://github.com/munlik/refind-theme-regular) of [munlik](https://github.com/munlik)

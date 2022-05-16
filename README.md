@@ -12,7 +12,7 @@ It is a theme of rEFInd Boot Manager, which can
 <details>
   <summary>🖱️Click to open How to Set🖱️</summary>
   
-  ### Note!
+  ### ❗️Note!
   - #If you have **ChromeOS on BrunchFramework**, you shall read this.
   <details>
     <summary>🖱️THIS🖱️</summary>

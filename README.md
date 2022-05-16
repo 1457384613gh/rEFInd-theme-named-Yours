@@ -49,10 +49,10 @@ And then it can load Chrome OS by using Brunch.
   <details>
     <summary>As for `.vhdx`</summary>
     
-    - `.vhdx` can be used by hyper-V; You can preview by hyper-V.
-    - You can mount `.vhdx` by Windows 10+ for editing and copying.
-    - The resolution is 1024×768.
-    ![image](https://user-images.githubusercontent.com/69227436/166185140-c74909ee-31b5-4dd4-9716-13b1073a9504.png)
+- `.vhdx` can be used by hyper-V; You can preview by hyper-V.
+- You can mount `.vhdx` by Windows 10+ for editing and copying.
+- The resolution is 1024×768.
+![image](https://user-images.githubusercontent.com/69227436/166185140-c74909ee-31b5-4dd4-9716-13b1073a9504.png)
   </details>
   <details>
     <summary>As for `.zip`</summary>

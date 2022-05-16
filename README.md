@@ -132,7 +132,7 @@ Here is mine.
 ![5_screenshot_001](https://user-images.githubusercontent.com/69227436/166140209-6f2c14b6-1e0c-4f29-8cae-74b85285fb1d.png)
 ![5_screenshot_002](https://user-images.githubusercontent.com/69227436/166140211-fc94ed16-946b-4974-9cb5-0945c276cfcf.png)
 
-## Star
+## Star⭐
 If you like it and are looking forward to the coming update, you can star it.⭐
  
 ## Credits

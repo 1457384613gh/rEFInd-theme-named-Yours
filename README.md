@@ -17,9 +17,9 @@ It is a theme of rEFInd Boot Manager, which can
   <details>
     <summary>🖱️📃THIS🖱️</summary>
     
-# How to load Chrome OS by using Brunch.
-- Find `#name#.img.grub.txt`
-- Open it and copy.
+# How to load Chrome OS by using Brunch
+- Find `#name#.img.grub.txt`..
+- Open it and copy the text.
 
 ![image](https://user-images.githubusercontent.com/69227436/168550855-2ec72ae0-7dcc-4421-b29f-4951989c94fe.png)
 
@@ -70,6 +70,7 @@ And then it can load Chrome OS by using Brunch.
   🖥️2. Edit `\EFI\refind\themes\Yours\theme.conf`
   
   🖳#2. (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices)
+  
   - to select your resolution
   - to decide mouse or touch
   

@@ -67,7 +67,7 @@ And then it can load Chrome OS by using Brunch.
   
   #1.5 Unpack `.zip`
   
-  2. Edit `\EFI\refind\themes\Yours\theme.conf`
+  🖥️2. Edit `\EFI\refind\themes\Yours\theme.conf`
   
   🖳#2. (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices)
   - to select your resolution
@@ -81,7 +81,7 @@ And then it can load Chrome OS by using Brunch.
   <details>
     <summary>🖱️For Microsoft Office 2021+🖱️</summary>
     
-    3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
+    🖥️3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
     
     🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices)
     
@@ -99,7 +99,7 @@ And then it can load Chrome OS by using Brunch.
     <summary>🖱️For Adobe Photoshop🖱️</summary>
     
     - #(Also, you can use [online PS](https://ps.gaoding.com/#/))
-    3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop
+    🖥️3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop
     
     🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop for old devices)
     
@@ -122,7 +122,7 @@ And then it can load Chrome OS by using Brunch.
   </details>
   
   ### 🖴Read and Write ESP
-  5. For new devices, copy the folder named refind into `ESP: /EFI/`
+  🖥️5. For new devices, copy the folder named refind into `ESP: /EFI/`
   
   🖳#5. For old devices, copy the folder named boot into `ESP: /EFI/`
   
@@ -130,7 +130,7 @@ And then it can load Chrome OS by using Brunch.
   6. By UEFI BIOS setup
 </details>
 
-## 🖥️Preview
+## 💻️Preview
 Here is mine.
 ![5_screenshot_001](https://user-images.githubusercontent.com/69227436/166140209-6f2c14b6-1e0c-4f29-8cae-74b85285fb1d.png)
 ![5_screenshot_002](https://user-images.githubusercontent.com/69227436/166140211-fc94ed16-946b-4974-9cb5-0945c276cfcf.png)

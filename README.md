@@ -99,6 +99,7 @@ And then it can load Chrome OS by using Brunch.
     <summary>🖱️For Adobe Photoshop🖱️</summary>
     
     - #(Also, you can use [online PS](https://ps.gaoding.com/#/))
+    
     🖥️3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop
     
     🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop for old devices)

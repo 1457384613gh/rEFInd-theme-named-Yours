@@ -113,7 +113,7 @@ And then it can load Chrome OS by using Brunch.
     4. Export as png to overwrite BannerEditor.png
   </details>
   <details>
-    <summary>🖱️For those who have no these fonts🖱️</summary>
+    <summary>🖱️🗚For those who have no these fonts🖱️</summary>
     
     - `Agency FB`  is the font of `The Device`
     - `French Script MT` is the font of `your name`

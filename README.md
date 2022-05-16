@@ -10,11 +10,11 @@ It is a theme of rEFInd Boot Manager, which can
 
 ## Note!
 - #If you have **ChromeOS on BrunchFramework**, you shall read **[This](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/README/Brunch.md)**.
-- #If you have OpenCore, you shall set `LauncherOption=System`.
-- #If you have Bliss OS, `/EFI/android` should be renamed `/EFI/blissos` .
-- #If you have prime os, `/EFI/android` should be renamed `/EFI/prime` .
-- #If you have Phoenix OS Darkmatter, `/EFI/android` should be renamed `/EFI/darkmatter` .
-- #If you have ventoy, `VTOY: /EFI/BOOT` should be renamed `VTOY: /EFI/VENTOY` .
+- #If you have **OpenCore**, you shall set `LauncherOption=System`.
+- #If you have **Bliss OS**, `/EFI/android` should be renamed `/EFI/blissos` .
+- #If you have **prime os**, `/EFI/android` should be renamed `/EFI/prime` .
+- #If you have **Phoenix OS Darkmatter**, `/EFI/android` should be renamed `/EFI/darkmatter` .
+- #If you have **Ventoy**, `VTOY: /EFI/BOOT` should be renamed `VTOY: /EFI/VENTOY` .
 - #如果你的U盘里有微PE工具箱，`U盘：/EFI/BOOT` 应该被重命名为 `U盘：/EFI/WEPE` 。
 
 ## Download the last with `.vhdx` or `.zip`

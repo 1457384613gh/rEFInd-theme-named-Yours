@@ -44,7 +44,7 @@ And then it can load Chrome OS by using Brunch.
   - #If you have **Ventoy**, `VTOY: /EFI/BOOT` should be renamed `VTOY: /EFI/VENTOY` .
   - #如果你的U盘里有微PE工具箱，`U盘：/EFI/BOOT` 应该被重命名为 `U盘：/EFI/WEPE` 。
   
-  ### Download the last with `.vhdx` or `.zip`
+  ### ⬇️Download the last with `.vhdx` or `.zip`
   1. Download the last from [Releases](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases).
   <details>
     <summary>🖱️As for `.vhdx`🖱️</summary>
@@ -61,18 +61,18 @@ And then it can load Chrome OS by using Brunch.
     - The resolution is 1920×1080.
   </details>
   
-  ### Set Resolution and Choose Mouse or Touch
+  ### 🖦Set Resolution and Choose Mouse or Touch
   #1.5 Mount `.vhdx`
   #1.5 Unpack `.zip`
   2. Edit `\EFI\refind\themes\Yours\theme.conf`
   
-  #2. (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices)
+  🖳#2. (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices)
   - to select your resolution
   - to decide mouse or touch
   
   ![image](https://user-images.githubusercontent.com/69227436/164884137-91064754-2100-4f7b-8fa7-57a37b833164.png)
   
-  ### Edit Banner to Set Your Profile, Device and Your Name
+  ### 📝Edit Banner to Set Your Profile, Device and Your Name
   - You can edit banner by using Microsoft Office 2021+
   - You can edit banner by using Adobe Photoshop
   <details>
@@ -80,7 +80,7 @@ And then it can load Chrome OS by using Brunch.
     
     3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
     
-    #3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices)
+    🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices)
     
     ![image](https://user-images.githubusercontent.com/69227436/164608436-e3b76607-7b73-4016-be0b-ec3c23ae9012.png)
     - to set your profile
@@ -98,7 +98,7 @@ And then it can load Chrome OS by using Brunch.
     - #(Also, you can use [online PS](https://ps.gaoding.com/#/))
     3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop
     
-    #3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop for old devices)
+    🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop for old devices)
     
     - to set your profile
     - to set device 
@@ -118,10 +118,10 @@ And then it can load Chrome OS by using Brunch.
     #4.5. You can select other fonts you like.
   </details>
   
-  ### Read and Write ESP
+  ### 🖴Read and Write ESP
   5. For new devices, copy the folder named refind into `ESP: /EFI/`
   
-  #5. For old devices, copy the folder named boot into `ESP: /EFI/`
+  🖳#5. For old devices, copy the folder named boot into `ESP: /EFI/`
   
   ### Add a New Boot Entry
   6. By UEFI BIOS setup

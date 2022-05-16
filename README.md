@@ -9,7 +9,7 @@ It is a theme of rEFInd Boot Manager, which can
 - set ___your name___.
 
 ## Note!
-- #If you have **ChromeOS on BrunchFramework**, you shall read [this](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/README/Brunch.md).
+- #If you have **ChromeOS on BrunchFramework**, you shall read **[this](https://github.com/1457384613gh/rEFInd-theme-named-Yours/blob/main/README/Brunch.md)**.
 - #If you have OpenCore, you shall set `LauncherOption=System`.
 - #If you have Bliss OS, `/EFI/android` should be renamed `/EFI/blissos` .
 - #If you have prime os, `/EFI/android` should be renamed `/EFI/prime` .

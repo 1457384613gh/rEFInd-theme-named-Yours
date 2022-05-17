@@ -129,7 +129,7 @@ And then it can load Chrome OS by using Brunch.
   
   🖳#5. For old devices, copy the folder named boot into `ESP: /EFI/`
   
-  ### Add a New Boot Entry
+  ### ➕Add a New Boot Entry
   6. By UEFI BIOS setup
 </details>
 

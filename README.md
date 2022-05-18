@@ -10,7 +10,7 @@ It is a theme of rEFInd Boot Manager, which can
 
 ## 🧭Guide
 <details>
-  <summary>🖱️Click to open How to Set🖱️</summary>
+  <summary>🖱️Click to Unfold How to Set🖱️</summary>
   
   ### ❗️Note!
   - #If you have **ChromeOS on BrunchFramework**, you shall read 📃THIS.

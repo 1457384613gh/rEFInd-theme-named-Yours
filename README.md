@@ -31,7 +31,7 @@ It is a theme of rEFInd Boot Manager, which can
 
 ![image](https://user-images.githubusercontent.com/69227436/168553154-bb4cb0fb-728f-4301-8e12-8b1527325ec6.png)
 
-And then it can load Chrome OS by using Brunch.✌️
+And then it can load Chrome OS by using Brunch.👌
 
 ![image](https://user-images.githubusercontent.com/69227436/168552782-273550f9-43a3-4f6d-9638-5dd5025cd9e3.png)
 

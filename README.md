@@ -67,9 +67,9 @@ And then it can load Chrome OS by using Brunch.✌️
   
   #1.5 Unpack `.zip` ✂️
   
-  🖥️2. Edit `\EFI\refind\themes\Yours\theme.conf`
+  🖥️2. Edit `\EFI\refind\themes\Yours\theme.conf` 🖉
   
-  🖳#2. (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices)
+  🖳#2. (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices)🖉
   
   - to select your resolution 🖥️
   - to decide mouse or touch 🖱️

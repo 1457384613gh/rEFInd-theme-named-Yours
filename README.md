@@ -4,9 +4,9 @@
 
 # 🪪rEFInd-theme-named-Yours
 It is a theme of rEFInd Boot Manager, which can
-- set ___your profile___
-- set ___device___
-- set ___your name___.
+- ✏️set ___your profile___
+- ✏️set ___device___
+- ✏️set ___your name___.
 
 ## 🧭Guide
 <details>

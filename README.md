@@ -62,7 +62,7 @@ And then it can load Chrome OS by using Brunch.👌
     - The resolution is 1920×1080.
   </details>
   
-  ### 🖦Set Resolution and Choose Mouse or Touch
+  ### ⌨️Set Resolution and Choose Mouse or Touch
   #1.5 Mount `.vhdx`.💾
   
   #1.5 Unpack `.zip`.✂️

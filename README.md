@@ -92,7 +92,7 @@ And then it can load Chrome OS by using Brunch.✌️
     - to set your name.🖉
     
     ![image](https://user-images.githubusercontent.com/69227436/164615647-597163f7-4021-4ae5-922f-7fef1ce521bb.png)
-    4. Export as png to overwrite BannerEditor.png 🖻
+    4. Export as png to overwrite BannerEditor.png.🖻
     
     ![image](https://user-images.githubusercontent.com/69227436/164616497-d3ca3e4a-f231-4fc2-99ac-587a32c09453.png)
   </details>
@@ -110,7 +110,7 @@ And then it can load Chrome OS by using Brunch.✌️
     - to set your name;🖉
     
     ![image](https://user-images.githubusercontent.com/69227436/164608548-03b00cf6-4c88-489e-878a-aec8f328f1ce.png)
-    4. Export as png to overwrite BannerEditor.png
+    4. Export as png to overwrite BannerEditor.png.🖻
   </details>
   <details>
     <summary>🖱️For those 📂 who have no these 🗚fonts🖱️</summary>
@@ -119,7 +119,7 @@ And then it can load Chrome OS by using Brunch.✌️
     - 🗚`French Script MT` is the font of `your name`
     - 🗚`Calibri` is the font of `the blue "of"`
     
-    #4.5. If you have no these fonts, you can download and install [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts-0.2).🧩
+    #4.5. 🧩You can download and install [These Fonts](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases/tag/Fonts-0.2).🔗
     
     #4.5. You can select other fonts you like.❤️
   </details>

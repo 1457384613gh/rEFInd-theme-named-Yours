@@ -13,9 +13,9 @@ It is a theme of rEFInd Boot Manager, which can
   <summary>🖱️Click to Unfold 📖 How to Set🖱️</summary>
   
   ### ❗️Note!❕
-  - #If you have **chromeOS on BrunchFramework**, you shall read 📁THIS.
+  - #If you have **chromeOS on BrunchFramework**, you shall read 📁THIS,
   <details>
-    <summary>🖱️📂THIS🖱️</summary>
+    <summary>🖱️Here is 📂THIS🖱️</summary>
     
 # How to load chromeOS by using Brunch❓️
 - Find `#name#.img.grub.txt`.🔎

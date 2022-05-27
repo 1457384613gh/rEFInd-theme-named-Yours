@@ -141,7 +141,7 @@ Here is mine.🖻
 ## ⭐Star🌟
 If you like it and are looking forward to the coming update, you can star it.💫
  
-## 🎉Credits🎊
+## 🎉Credit🎊
 Many icons have been adapted from [refind-theme-regular](https://github.com/munlik/refind-theme-regular) of [munlik](https://github.com/munlik);
 
 Some icons have been adapted from [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/);

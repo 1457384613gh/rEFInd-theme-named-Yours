@@ -63,13 +63,13 @@ And then it can load Chrome OS by using Brunch.👌
   </details>
   
   ### 🖦Set Resolution and Choose Mouse or Touch
-  #1.5 Mount `.vhdx` 💾
+  #1.5 Mount `.vhdx`.💾
   
-  #1.5 Unpack `.zip` ✂️
+  #1.5 Unpack `.zip`.✂️
   
-  🖥️2. Edit `\EFI\refind\themes\Yours\theme.conf` 🖉
+  🖥️2. Edit `\EFI\refind\themes\Yours\theme.conf`,🖉
   
-  🖳#2. (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices)🖉
+  🖳#2. (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices,)🖉
   
   - to select your resolution;🖥️
   - to decide mouse or touch.🖱️
@@ -77,14 +77,14 @@ And then it can load Chrome OS by using Brunch.👌
   ![image](https://user-images.githubusercontent.com/69227436/164884137-91064754-2100-4f7b-8fa7-57a37b833164.png)
   
   ### 📝Edit Banner to Set Your Profile, Device and Your Name
-  - You can edit banner by using Microsoft Office 2021+
-  - You can edit banner by using Adobe Photoshop
+  - You can edit banner by using Microsoft Office 2021+;
+  - You can edit banner by using Adobe Photoshop.
   <details>
     <summary>🖱️For 📂 Microsoft Office 2021+🖱️</summary>
     
-    🖥️3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+
+    🖥️3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+,
     
-    🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices)
+    🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices,)
     
     ![image](https://user-images.githubusercontent.com/69227436/164608436-e3b76607-7b73-4016-be0b-ec3c23ae9012.png)
     - to set your profile;🖉
@@ -101,9 +101,9 @@ And then it can load Chrome OS by using Brunch.👌
     
     - #(Also, you can use [online PS](https://ps.gaoding.com/#/))
     
-    🖥️3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop
+    🖥️3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop,
     
-    🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop for old devices)
+    🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop for old devices,)
     
     - to set your profile;🖉
     - to set device;🖉
@@ -115,7 +115,7 @@ And then it can load Chrome OS by using Brunch.👌
   <details>
     <summary>🖱️For those 📂 who have no these 🗚fonts🖱️</summary>
     
-    - 🗚`Agency FB`  is the font of `The Device`
+    - 🗚`Agency FB` is the font of `The Device`
     - 🗚`French Script MT` is the font of `your name`
     - 🗚`Calibri` is the font of `the blue "of"`
     
@@ -125,12 +125,12 @@ And then it can load Chrome OS by using Brunch.👌
   </details>
   
   ### 🖴Read and Write ESP🗃️
-  🖥️5. For new devices, copy the folder named refind into `ESP: /EFI/` 📋️
+  🖥️5. For new devices, copy the folder named refind into `ESP: /EFI/`.📋️
   
-  🖳#5. For old devices, copy the folder named boot into `ESP: /EFI/` 📋️
+  🖳#5. For old devices, copy the folder named boot into `ESP: /EFI/`.📋️
   
   ### ➕Add a New Boot Entry👢
-  6. By UEFI BIOS setup ⚙️
+  6. By UEFI BIOS setup.⚙️
 </details>
 
 ## 💻️Preview👀
@@ -142,10 +142,10 @@ Here is mine.🖻
 If you like it and are looking forward to the coming update, you can star it.💫
  
 ## 🎉Credits🎊
-Many icons have been adapted from [refind-theme-regular](https://github.com/munlik/refind-theme-regular) of [munlik](https://github.com/munlik)
+Many icons have been adapted from [refind-theme-regular](https://github.com/munlik/refind-theme-regular) of [munlik](https://github.com/munlik);
 
-Some icons have been adapted from [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/)
+Some icons have been adapted from [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/);
 
-Some icons have been adapted from [brunch](https://github.com/sebanc/brunch/)
+Some icons have been adapted from [brunch](https://github.com/sebanc/brunch/);
 
 A few has been adapted from unknown.

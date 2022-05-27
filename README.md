@@ -124,7 +124,7 @@ And then it can load Chrome OS by using Brunch.✌️
     #4.5. You can select other fonts you like.❤️
   </details>
   
-  ### 🖴Read and Write ESP📋️
+  ### 🖴Read and Write ESP🗃️
   🖥️5. For new devices, copy the folder named refind into `ESP: /EFI/` 📋️
   
   🖳#5. For old devices, copy the folder named boot into `ESP: /EFI/` 📋️

@@ -15,7 +15,7 @@ It is a theme of rEFInd Boot Manager, which can
   ### ❗️Note!❕
   - #If you have **chromeOS on BrunchFramework**, you shall read 📁THIS,
   <details>
-    <summary>Click🖱️Here is 📂THIS🖱️Click</summary>
+    <summary>🖱️Click to Unfold 📂THIS🖱️</summary>
     
 # How to load chromeOS by using Brunch❓️
 - Find `#name#.img.grub.txt`.🔎
@@ -48,7 +48,7 @@ And then it can load Chrome OS by using Brunch.👌
   ### ⬇️Download the last with `.vhdx` or `.zip`
   1. Download the last from [Releases](https://github.com/1457384613gh/rEFInd-theme-named-Yours/releases).🔗
   <details>
-    <summary>Click🖱️💾As for 📂`.vhdx`🖱️Click</summary>
+    <summary>🖱️Click to Unfold 📂 As for 💾`.vhdx`🖱️</summary>
     
 - `.vhdx` can be used by hyper-V; You can preview by hyper-V.
 - You can mount `.vhdx` by Windows 10+ for editing and copying.
@@ -56,7 +56,7 @@ And then it can load Chrome OS by using Brunch.👌
 ![image](https://user-images.githubusercontent.com/69227436/166185140-c74909ee-31b5-4dd4-9716-13b1073a9504.png)
   </details>
   <details>
-    <summary>Click🖱️📦️As for 📂`.zip`🖱️Click</summary>
+    <summary>🖱️Click to Unfold 📂 As for 📦️`.zip`🖱️</summary>
     
     - `.zip` is so easy to use.
     - The resolution is 1920×1080.
@@ -80,7 +80,7 @@ And then it can load Chrome OS by using Brunch.👌
   - You can edit banner by using Microsoft Office 2021+;
   - You can edit banner by using Adobe Photoshop.
   <details>
-    <summary>Click🖱️For 📂 Microsoft Office 2021+🖱️Click</summary>
+    <summary>🖱️Click to Unfold 📂 For Microsoft Office 2021+🖱️</summary>
     
     🖥️3. Open `\EFI\refind\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+,
     
@@ -97,7 +97,7 @@ And then it can load Chrome OS by using Brunch.👌
     ![image](https://user-images.githubusercontent.com/69227436/164616497-d3ca3e4a-f231-4fc2-99ac-587a32c09453.png)
   </details>
   <details>
-    <summary>Click🖱️For 📂 Adobe Photoshop🖱️Click</summary>
+    <summary>🖱️Click to Unfold 📂 For Adobe Photoshop🖱️</summary>
     
     - #(Also, you can use [online PS](https://ps.gaoding.com/#/))
     
@@ -113,7 +113,7 @@ And then it can load Chrome OS by using Brunch.👌
     4. Export as png to overwrite BannerEditor.png.🖻
   </details>
   <details>
-    <summary>Click🖱️For those 📂 who have no these 🗚fonts🖱️Click</summary>
+    <summary>🖱️Click to Unfold 📂 For those who have no these 🗚fonts🖱️</summary>
     
     - 🗚`Agency FB` is the font of `The Device`
     - 🗚`French Script MT` is the font of `your name`

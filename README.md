@@ -4,8 +4,8 @@
 
 # ℹ️rEFInd-theme-named-Yours🪪
 It is a theme of rEFInd Boot Manager, which can
-- ✏️set ___your profile___
-- ✏️set ___device___
+- ✏️set ___your profile___;
+- ✏️set ___device___;
 - ✏️set ___your name___.
 
 ## 🧭Guide⬇️
@@ -87,12 +87,12 @@ And then it can load Chrome OS by using Brunch.✌️
     🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.pptx` by using Microsoft Office 2021+ for old devices)
     
     ![image](https://user-images.githubusercontent.com/69227436/164608436-e3b76607-7b73-4016-be0b-ec3c23ae9012.png)
-    - to set your profile
-    - to set device 
-    - to set your name.
+    - to set your profile;🖉
+    - to set device;🖉
+    - to set your name.🖉
     
     ![image](https://user-images.githubusercontent.com/69227436/164615647-597163f7-4021-4ae5-922f-7fef1ce521bb.png)
-    4. Export as png to overwrite BannerEditor.png
+    4. Export as png to overwrite BannerEditor.png 🖻
     
     ![image](https://user-images.githubusercontent.com/69227436/164616497-d3ca3e4a-f231-4fc2-99ac-587a32c09453.png)
   </details>
@@ -105,9 +105,9 @@ And then it can load Chrome OS by using Brunch.✌️
     
     🖳#3. (Open `\EFI\boot\themes\Yours\banners\$resolution\BannerEditor.psd` by using Adobe Photoshop for old devices)
     
-    - to set your profile ✏️
-    - to set device ✏️
-    - to set your name ✏️
+    - to set your profile;🖉
+    - to set device;🖉
+    - to set your name;🖉
     
     ![image](https://user-images.githubusercontent.com/69227436/164608548-03b00cf6-4c88-489e-878a-aec8f328f1ce.png)
     4. Export as png to overwrite BannerEditor.png

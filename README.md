@@ -13,11 +13,11 @@ It is a theme of rEFInd Boot Manager, which can
   <summary>🖱️Click to Unfold 📖 How to Set🖱️</summary>
   
   ### ❗️Note!❕
-  - #If you have **ChromeOS on BrunchFramework**, you shall read 📁THIS.
+  - #If you have **chromeOS on BrunchFramework**, you shall read 📁THIS.
   <details>
     <summary>🖱️📂THIS🖱️</summary>
     
-# How to load Chrome OS by using Brunch❓️
+# How to load chromeOS by using Brunch❓️
 - Find `#name#.img.grub.txt`.🔎
 - Open it and copy the text.📄
 
@@ -71,8 +71,8 @@ And then it can load Chrome OS by using Brunch.✌️
   
   🖳#2. (Edit `\EFI\boot\themes\Yours\theme.conf` for old devices)🖉
   
-  - to select your resolution 🖥️
-  - to decide mouse or touch 🖱️
+  - to select your resolution;🖥️
+  - to decide mouse or touch.🖱️
   
   ![image](https://user-images.githubusercontent.com/69227436/164884137-91064754-2100-4f7b-8fa7-57a37b833164.png)
   
